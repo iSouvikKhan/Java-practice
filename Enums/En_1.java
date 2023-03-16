@@ -26,5 +26,6 @@ public class En_1 {
 		for(Result re : arr) {
 			System.out.println(re + " " + re.ordinal());
 		}
+		
 	}
 }
